@@ -32,7 +32,7 @@ Skills...
 
 |                 Messenger     |    Youtube | Instagram                                    
 |----------------|-----------------------------------|-----------------------------|
-| <a  href="https://github.com/kcynia85/messengerClone"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605570657/github-portfolio/thumb_sjkovl.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>           
+| <a  href="https://github.com/kcynia85/messengerClone"  target="_blank">![Primitive Messenger Clone ](https://res.cloudinary.com/dhthrowim/image/upload/v1605634633/amazon-clone/Screen_Shot_2020-11-17_at_6.34.30_PM_lih9qo.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>           
 | ... | ... | ...    
 | <a href="https://github.com/kcynia85/messengerClone" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a>
 
