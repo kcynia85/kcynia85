@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 
 ## Portfolio [ draft ]
@@ -7,6 +5,7 @@
 Skills... 
 
 > ### Vanilla _ projects
+
 
 |                 Form validator      |    Movie Seat Booking  | Custom Video Player                                      
 |----------------|-----------------------------------|-----------------------------|
@@ -39,6 +38,14 @@ Skills...
 
 
 > ### Blockchain _ projects
+
+|                 ...    |    ...  | ...                                      
+|----------------|-----------------------------------|-----------------------------|
+| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>           
+| ...    | ... | ... 
+| <a href="#" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a>
+
+> ### Machine learning _ projects
 
 |                 ...    |    ...  | ...                                      
 |----------------|-----------------------------------|-----------------------------|
