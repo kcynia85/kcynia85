@@ -26,7 +26,7 @@ Skills...
 
 |                 Amazon     |    Netflix | Spotify                                    
 |----------------|-----------------------------------|-----------------------------|
-| <a  href="#"  target="_blank">![Amazon clone](https://res.cloudinary.com/dhthrowim/image/upload/v1605633852/amazon-clone/amazon_2_doedyz.png)</a>        | <a  href="https://github.com/kcynia85/amazon-clone"  target="_blank">![Netflix clone](https://res.cloudinary.com/dhthrowim/image/upload/v1605570657/github-portfolio/thumb_sjkovl.png)</a> | <a  href="#"  target="_blank">![Spotify clone](https://res.cloudinary.com/dhthrowim/image/upload/v1605570657/github-portfolio/thumb_sjkovl.png)</a>           
+| <a  href="#"  target="_blank">![Amazon clone](https://res.cloudinary.com/dhthrowim/image/upload/v1605633852/amazon-clone/amazon_2_doedyz.png)</a>        | <a  href="https://github.com/kcynia85/amazon-clone"  target="_blank">![Netflix clone](https://res.cloudinary.com/dhthrowim/image/upload/v1605635236/amazon-clone/netf_thumb_bh7uxe.pngg)</a> | <a  href="#"  target="_blank">![Spotify clone](https://res.cloudinary.com/dhthrowim/image/upload/v1605570657/github-portfolio/thumb_sjkovl.png)</a>           
 | ...    | ... | ... 
 | <a href="https://github.com/kcynia85/amazon-clone" target="_blank">`See repository`</a>      	| <a href="https://github.com/kcynia85/netflixClone" target="_blank">`See repository`</a> | <a href="https://github.com/kcynia85/primitive-spotify-clone_createdWithCleverProgramming" target="_blank">`See repository`</a>
 
