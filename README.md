@@ -9,7 +9,7 @@ Skills...
 
 |                 Form validator      |    Movie Seat Booking  | Custom Video Player                                      
 |----------------|-----------------------------------|-----------------------------|
-| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>           
+| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>           
 | ...    | ... | ... 
 | <a href="#" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a> 
  
@@ -18,7 +18,7 @@ Skills...
 
 |                 Amzon    |    Spotify  | Custom Video Player                                      
 |----------------|-----------------------------------|-----------------------------|
-| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>           
+| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>           
 | ...    | ... | ... 
 | <a href="#" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a> 
 
@@ -32,7 +32,7 @@ Skills...
 
 |                 Messenger     |    Youtube | Instagram                                    
 |----------------|-----------------------------------|-----------------------------|
-| <a  href="https://github.com/kcynia85/messengerClone"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605570657/github-portfolio/thumb_sjkovl.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>           
+| <a  href="https://github.com/kcynia85/messengerClone"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605570657/github-portfolio/thumb_sjkovl.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>           
 | ... | ... | ...    
 | <a href="https://github.com/kcynia85/messengerClone" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a>
 
@@ -41,7 +41,7 @@ Skills...
 
 |                 ...    |    ...  | ...                                      
 |----------------|-----------------------------------|-----------------------------|
-| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>           
+| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>           
 | ...    | ... | ... 
 | <a href="#" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a>
 
@@ -49,6 +49,6 @@ Skills...
 
 |                 ...    |    ...  | ...                                      
 |----------------|-----------------------------------|-----------------------------|
-| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>           
+| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>           
 | ...    | ... | ... 
 | <a href="#" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a>
