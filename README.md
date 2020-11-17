@@ -4,6 +4,8 @@
 
 Skills... 
 
+ ### 🧑‍💻 DEV
+
 > ### Vanilla _ projects
 
 
@@ -36,6 +38,13 @@ Skills...
 | ... | ... | ...    
 | <a href="https://github.com/kcynia85/messengerClone" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a>
 
+> ### React | Gatsby.js _ projects
+
+|                 ...    |    ...  | ...                                      
+|----------------|-----------------------------------|-----------------------------|
+| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>           
+| ...    | ... | ... 
+| <a href="#" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a> 
 
 > ### Blockchain _ projects
 
