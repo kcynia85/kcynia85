@@ -1,16 +1,47 @@
 ### Hi there 👋
 
-<!--
-**kcynia85/kcynia85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio [ draft ]
+
+Skills... 
+
+> ### Vanilla _ projects
+
+|                 Form validator      |    Movie Seat Booking  | Custom Video Player                                      
+|----------------|-----------------------------------|-----------------------------|
+| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>           
+| ...    | ... | ... 
+| <a href="#" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a> 
+ 
+
+> ### MERN _ projects
+
+|                 Amzon    |    Spotify  | Custom Video Player                                      
+|----------------|-----------------------------------|-----------------------------|
+| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>           
+| ...    | ... | ... 
+| <a href="#" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a> 
+
+> ### React _ projects _ clones 
+
+|                 Amazon     |    Netflix | Spotify                                    
+|----------------|-----------------------------------|-----------------------------|
+| <a  href="#"  target="_blank">![Amazon](https://res.cloudinary.com/dhthrowim/image/upload/v1605570657/github-portfolio/thumb_sjkovl.png)</a>        | <a  href="https://github.com/kcynia85/amazon-clone"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605570657/github-portfolio/thumb_sjkovl.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605570657/github-portfolio/thumb_sjkovl.png)</a>           
+| ...    | ... | ... 
+| <a href="https://github.com/kcynia85/amazon-clone" target="_blank">`See repository`</a>      	| <a href="https://github.com/kcynia85/netflixClone" target="_blank">`See repository`</a> | <a href="https://github.com/kcynia85/primitive-spotify-clone_createdWithCleverProgramming" target="_blank">`See repository`</a>
+
+|                 Messenger     |    Youtube | Instagram                                    
+|----------------|-----------------------------------|-----------------------------|
+| <a  href="https://github.com/kcynia85/messengerClone"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605570657/github-portfolio/thumb_sjkovl.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>           
+| ... | ... | ...    
+| <a href="https://github.com/kcynia85/messengerClone" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a>
+
+
+> ### Blockchain _ projects
+
+|                 ...    |    ...  | ...                                      
+|----------------|-----------------------------------|-----------------------------|
+| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605569149/github-portfolio/soon_xzwvww.png)</a>           
+| ...    | ... | ... 
+| <a href="#" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a>
