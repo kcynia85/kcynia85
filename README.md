@@ -13,7 +13,7 @@ Skills...
 |----------------|-----------------------------------|-----------------------------|
 | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1613341236/movie-seat-booking/movie-bookig_dpog3w.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>           
 | ...    | ... | ... 
-| <a href="#" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a> 
+| <a href="#" target="_blank">`See repository`</a>      	| <a href="https://github.com/kcynia85/booking-seat" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a> 
  
 
 > ### MERN _ projects
