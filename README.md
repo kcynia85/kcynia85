@@ -9,9 +9,9 @@ Skills...
 > ### Vanilla _ projects
 
 
-|                 Form validator      |    Movie Seat Booking  | Custom Video Player                                      
+|                 -      |    Movie Seat Booking  | Custom Video Player                                      
 |----------------|-----------------------------------|-----------------------------|
-| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>           
+| <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>        | <a  href="#"  target="_blank">![Movie Seat Booking](https://res.cloudinary.com/dhthrowim/image/upload/v1613340781/movie-seat-booking/Screen_Shot_2021-02-14_at_11.14.42_PM_lbzybo.png)</a> | <a  href="#"  target="_blank">![Movies browser](https://res.cloudinary.com/dhthrowim/image/upload/v1605572164/github-portfolio/trans-com_zaw39d.png)</a>           
 | ...    | ... | ... 
 | <a href="#" target="_blank">`See repository`</a>      	| <a href="#" target="_blank">`See repository`</a> | <a href="#" target="_blank">`See repository`</a> 
  
